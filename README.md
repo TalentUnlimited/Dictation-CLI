@@ -13,9 +13,9 @@ python -m venv venv
 ```
 ```
 # In cmd.exe
-venv\Scripts\activate.bat
+"venv\Scripts\activate.bat"
 # In PowerShell
-venv\Scripts\Activate.ps1
+"venv\Scripts\Activate.ps1"
 ```
 ```
 pip install -r requirements.txt
