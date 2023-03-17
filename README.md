@@ -10,12 +10,16 @@ Dictation-CLI is a command-line interface tool that takes in a .txt file and dic
 
 ```
 python -m venv venv
-
+```
+```
 # In cmd.exe
 venv\Scripts\activate.bat
 # In PowerShell
 venv\Scripts\Activate.ps1
-
+```
+```
 pip install -r requirements.txt
+```
+```
 python -m dictate --help
 ```
