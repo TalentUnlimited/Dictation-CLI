@@ -23,3 +23,8 @@ pip install -r requirements.txt
 ```
 python -m dictate --help
 ```
+
+## Demo
+
+https://user-images.githubusercontent.com/122269523/225832955-c7a6f16d-5d1e-44fe-a191-9323425bf861.mp4
+
